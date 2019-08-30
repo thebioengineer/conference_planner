@@ -22,7 +22,7 @@ Meeting in person I found to be much more valuable than phone calls for making d
 
 At the first meeting, map out when the high level tasks above need to be completed by. Things always take longer than anticipated, so leave a week or two buffer for tasks. Also do not provide "ample" time for getting a task done, the sooner they are due, the more likely they are to get done.
 
-Last thing, but definitely an important thing, is to start a budget document. We have a sample in the google drive from 2019, and it really helped shape what we thought we would need for sponsorships. 
+Last thing, but definitely an important thing, is to start a budget document. Go to the [Budget Planner](01-BudgetPlanner.md) to start planning out costs. This is a living document that needs to be updated as you either validate or invalidate your assumptions. At each step and each committee meeting reviewing this document is important.
 
 - [] Identify Committee Members
 - [] Identify Committee "Lead"
@@ -56,9 +56,9 @@ The schedule will partly be shaped by your selections with the keynotes, but get
 
 ## Find Sponsors
 
-Since the goal of the conference is to maintain an approachable cost, this means finding sponsors. Part of finding sponsors is identifying a) what is for "sale" and b) for how much?. You can see what was done for 2019 and 2018 in the google drive.
+Since the goal of the conference is to maintain an approachable cost, this means finding sponsors. Part of finding sponsors is identifying a) what is for "sale" and b) for how much?. Make sure that it is understood 
 
-One key item is to make it clear sponsors will only be getting what is explictly listed in the sponsor package document. Since we are so reliant on external funding, maintaining good relationships with our sponsors year over year is highly important.
+One key item is to make it clear sponsors will only be getting what is explictly listed in the sponsor package document. Since conferences can be so reliant on external funding, maintaining good relationships with our sponsors year over year is highly important.
 
 - [] Create sponsor package document
 - [] Create and document way to recieve money from sponsors
