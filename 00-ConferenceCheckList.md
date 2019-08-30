@@ -6,9 +6,9 @@
 - [ ] Find sponsors
 - [ ] Identify Location
 - [ ] Generate Call For Papers
-- [ ] Release CFP, Keynote(s)/Endnote, and Earlybird Ticket Sales
+- [ ] Release CFP, Keynote(s)/Endnote, and Early-bird Ticket Sales
 - [ ] Review Abstract submissions and send acceptances
-- [ ] End Earlybird Ticket sales
+- [ ] End Early-bird Ticket sales
 - [ ] Release schedule
 - [ ] Announce Speakers
 - [ ] Awareness Campaigning
@@ -16,7 +16,7 @@
 
 ## Assemble Organizing Committee
 
-This is a critical step, as who is on the committee will shape much of the work. Biggest thing is to make sure it is understood the commitment that is expected. Assemble a diverse group of people, and start a meeting cadence that works for everyone early on. Missing a meeting here or there happens, but making these meetings should be a priority for committee members. There should be a leader of the committee that makes decisions when there is not concensus. 
+This is a critical step, as who is on the committee will shape much of the work. Biggest thing is to make sure it is understood the commitment that is expected. Assemble a diverse group of people, and start a meeting cadence that works for everyone early on. Missing a meeting here or there happens, but making these meetings should be a priority for committee members. There should be a leader of the committee that makes decisions when there is not consensus. 
 
 Meeting in person I found to be much more valuable than phone calls for making decisions and moving the project forward. Plan to at the end of each meeting assign tasks and completion goals. At the beginning of each meeting, review progress and road blocks. I would suggest meeting once or twice a month to start, and increase to every other, and finally every week the month before the conference. 
 
@@ -31,16 +31,16 @@ Last thing, but definitely an important thing, is to start a budget document. Go
 	- [ ] Determine Attendee goals	
 	- [ ] Determine ticket price
 	- [ ] Determine sponsorship goals
-- [ ] Create task timeline
+- [ ] Create task time line
 
 
 ## Identify Keynote(s)/Endnote/Panel
 
-This task is somwhat related to the schedule, but a schedule can change based on your decisions with how you want your main talks to go. For 2019, originally we wanted just to do an hour long key note, a panel, then sessions. Obviously that changed.
+This task is somewhat related to the schedule, but a schedule can change based on your decisions with how you want your main talks to go. For 2019, originally we wanted just to do an hour long key note, a panel, then sessions. Obviously that changed.
 
 I would suggest finding a local person to be a keynote, and ask for a topic that is general enough to inspire people. A keynote sets the tone for the rest of the conference, so start reaching out to people early. Also make a member of the committee available to work with your keynotes to develop the talk. Also, instead of a keynote, you can do a panel discussion to cover a wide variety of topics from several different people in a short amount of time. But this requires a moderator and more preparation.
 
-- [ ] Identify a list of potential keynote's/panel memebers
+- [ ] Identify a list of potential keynote's/panel members
 - [ ] Contact
 
 ## Rough Schedule
@@ -58,10 +58,10 @@ The schedule will partly be shaped by your selections with the keynotes, but get
 
 Since the goal of the conference is to maintain an approachable cost, this means finding sponsors. Part of finding sponsors is identifying a) what is for "sale" and b) for how much?. Make sure that it is understood 
 
-One key item is to make it clear sponsors will only be getting what is explictly listed in the sponsor package document. Since conferences can be so reliant on external funding, maintaining good relationships with our sponsors year over year is highly important.
+One key item is to make it clear sponsors will only be getting what is explicitly listed in the sponsor package document. Since conferences can be so reliant on external funding, maintaining good relationships with our sponsors year over year is highly important. Another is to make sure to follow up with sponsors about the transfer of the money and make it clear the expectations surrounding that. 
 
 - [ ] Create sponsor package document
-- [ ] Create and document way to recieve money from sponsors
+- [ ] Create and document way to receive money from sponsors
 	-[ ] Do this prior to reaching out to potential sponsors
 - [ ] Create list of potential sponsors
 - [ ] Reach out to potential sponsors
@@ -70,7 +70,7 @@ One key item is to make it clear sponsors will only be getting what is explictly
 
 ## Location
 
-It may seem a little counter-intuitive to be listing this to do item so low, but in reality, most of what has been listed can all be done in parallel with this. Key thing with finding a location is to make sure it has the space needed based on your schedule and estimated total attendees. Next, figuring out what will need to be done yourself vs what the venue takes care of is important. For example, catering, room set up, parking, signage. These will lead you down additional checklist items if the location does not offer these services. Also know that quotes are negotiable.
+It may seem a little counter-intuitive to be listing this to do item so low, but in reality, most of what has been listed can all be done in parallel with this. Key thing with finding a location is to make sure it has the space needed based on your schedule and estimated total attendees. Next, figuring out what will need to be done yourself vs what the venue takes care of is important. For example, catering, room set up, parking, sign-age. These will lead you down additional checklist items if the location does not offer these services. Also know that quotes are negotiable.
 
 - [ ] Scope out potential locations
 - [ ] Get quotes from locations
@@ -82,31 +82,31 @@ It may seem a little counter-intuitive to be listing this to do item so low, but
 
 The Call For Papers details what is being looked for in talks submitted to the conference, and the sorts of lengths of talks. It needs to strike a balance between giving applicants a topic to base their abstract off of, but general enough to have a wide variety of topics. Also, detailing what speakers get by being accepted and what is expected of them is a help as well.
 
-The key is to select a timeline with the CFP that is long enough for people to figure out how to respond to the prompt, but short enough to cause urgency. A month seems like a good time length. Have a plan in place for social media etc. 
+The key is to select a time line with the CFP that is long enough for people to figure out how to respond to the prompt, but short enough to cause urgency. A month seems like a good time length. Have a plan in place for social media etc. 
 
 - [ ] Determine accepted talk topics
-- [ ] Determine accepted talk types (ie. 30 minute talks, lightning, trainings, 20 mintues,...)
-- [ ] Determine benefits for speakers - special accomodations, free admission, assistance in reviewing talks, ...
-- [ ] Determine timeline for when CFP opens
-- [ ] Determine timeline for when CFP closes
-- [ ] Determine timeline for Abstract review
+- [ ] Determine accepted talk types (ie. 30 minute talks, lightning, trainings, 20 minutes,...)
+- [ ] Determine benefits for speakers - special accommodations, free admission, assistance in reviewing talks, ...
+- [ ] Determine time line for when CFP opens
+- [ ] Determine time line for when CFP closes
+- [ ] Determine time line for Abstract review
 - [ ] Determine committee assignment on reviewing abstracts
 - [ ] Determine speaker response time (<1 week is ideal)
 
 ## Release CFP, Keynote(s)/Endnote, and Earlybird Ticket Sales
 
-This piece is the first public contact for the conference. We can work with you to manage the twitter, LinkedIn and Mailchimp accounts. Opening the Earlybird ticket sales also means you need your event software selected. We used eventbank this past year, but before eventbright was used. I would suggest looking at eventbright again. We closed the earlybird tickets when we closed the CFP. In retrospect, that might have not been the best idea. However, the change in cost was only an increase from $40 to $50, so it likely wasn't a huge deal.
+This piece is the first public contact for the conference. Some ways are to use twitter, LinkedIn and Mailchimp. Opening the Earlybird ticket sales also means you need your event software selected. There are many out there, the most common one I have seen is eventbright.
 
-- [ ] Select Event softare
-- [ ] Determine end of Earlybird ticket sales
+- [ ] Select Event software
+- [ ] Determine end of Early-bird ticket sales
 - [ ] Determine CFP social media plan
-- [ ] Determine Earlybird social media plan
+- [ ] Determine Early-bird social media plan
 
 
 ## Review Abstract submissions and send acceptances
 
 Once the abstracts have been submitted, a short turnaround is best to then get acceptances from speakers and then announce full schedule. 
-To review the abstracts, have several committee members read through each abstract and rate them against several metrics, and list the topics they cover. It is up to the commitee to decide those metrics. I also took into account how the talks would mesh into the schedule and diversity.
+To review the abstracts, have several committee members read through each abstract and rate them against several metrics, and list the topics they cover. It is up to the committee to decide those metrics. I also took into account how the talks would mesh into the schedule and diversity.
 
 Let the speakers know if they have been accepted, and only give a week to respond. I gave two weeks and still had to follow up.
 
