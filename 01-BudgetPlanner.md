@@ -1,14 +1,13 @@
 
 # Budget Planner
 
-Event Name
-Location: 
-Event Date: 				
-Total Event Budget:				
-F&B Minimum: 			
-Headcount:		
+|Event Name        | |
+|Location          | |
+|Event Date        | |				
+|Total Event Budget| |				
+|F&B Minimum       | |			
+|Headcount         | |		
 
-				
 ## Food and Beverage 	
 
 _Budgeted Amount_:

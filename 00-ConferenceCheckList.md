@@ -1,17 +1,17 @@
 # Conference Check List
 
-- [] Assemble organizing committee
-- [] Identify keynote(s)/endnote/panel
-- [] Decide on a rough schedule
-- [] Find sponsors
-- [] Identify Location
-- [] Generate Call For Papers
-- [] Release CFP, Keynote(s)/Endnote, and Earlybird Ticket Sales
-- [] Review Abstract submissions and send acceptances
-- [] End Earlybird Ticket sales
-- [] Release schedule
-- [] Announce Speakers
-- [] Awareness Campaigning
+- [ ] Assemble organizing committee
+- [ ] Identify keynote(s)/endnote/panel
+- [ ] Decide on a rough schedule
+- [ ] Find sponsors
+- [ ] Identify Location
+- [ ] Generate Call For Papers
+- [ ] Release CFP, Keynote(s)/Endnote, and Earlybird Ticket Sales
+- [ ] Review Abstract submissions and send acceptances
+- [ ] End Earlybird Ticket sales
+- [ ] Release schedule
+- [ ] Announce Speakers
+- [ ] Awareness Campaigning
 
 
 ## Assemble Organizing Committee
@@ -24,14 +24,14 @@ At the first meeting, map out when the high level tasks above need to be complet
 
 Last thing, but definitely an important thing, is to start a budget document. Go to the [Budget Planner](01-BudgetPlanner.md) to start planning out costs. This is a living document that needs to be updated as you either validate or invalidate your assumptions. At each step and each committee meeting reviewing this document is important.
 
-- [] Identify Committee Members
-- [] Identify Committee "Lead"
-- [] Decide on meeting cadence, locations
-- [] Budget
-	- [] Determine Attendee goals	
-	- [] Determine ticket price
-	- [] Determine sponsorship goals
-- [] Create task timeline
+- [ ] Identify Committee Members
+- [ ] Identify Committee "Lead"
+- [ ] Decide on meeting cadence, locations
+- [ ] Budget
+	- [ ] Determine Attendee goals	
+	- [ ] Determine ticket price
+	- [ ] Determine sponsorship goals
+- [ ] Create task timeline
 
 
 ## Identify Keynote(s)/Endnote/Panel
@@ -40,19 +40,19 @@ This task is somwhat related to the schedule, but a schedule can change based on
 
 I would suggest finding a local person to be a keynote, and ask for a topic that is general enough to inspire people. A keynote sets the tone for the rest of the conference, so start reaching out to people early. Also make a member of the committee available to work with your keynotes to develop the talk. Also, instead of a keynote, you can do a panel discussion to cover a wide variety of topics from several different people in a short amount of time. But this requires a moderator and more preparation.
 
-- [] Identify a list of potential keynote's/panel memebers
-- [] Contact
+- [ ] Identify a list of potential keynote's/panel memebers
+- [ ] Contact
 
 ## Rough Schedule
 
 The schedule will partly be shaped by your selections with the keynotes, but getting a rough idea for how to organize the conference will shape later steps, like the CFP. Some key things to figure out are when the actual talks will begin, how long each session will be, do you want a panel or keynote, when and how many lightning talks. 
 
-- [] Registration time
-- [] Keynote/Panel times
-- [] Number of sessions/length/times
-- [] Number of keynotes
-- [] Lunch
-- [] Networking time?
+- [ ] Registration time
+- [ ] Keynote/Panel times
+- [ ] Number of sessions/length/times
+- [ ] Number of keynotes
+- [ ] Lunch
+- [ ] Networking time?
 
 ## Find Sponsors
 
@@ -60,23 +60,23 @@ Since the goal of the conference is to maintain an approachable cost, this means
 
 One key item is to make it clear sponsors will only be getting what is explictly listed in the sponsor package document. Since conferences can be so reliant on external funding, maintaining good relationships with our sponsors year over year is highly important.
 
-- [] Create sponsor package document
-- [] Create and document way to recieve money from sponsors
-	-[] Do this prior to reaching out to potential sponsors
-- [] Create list of potential sponsors
-- [] Reach out to potential sponsors
-- [] Answer any questions sponsors have
-- [] transfer money from Sponsors in a timely manner
+- [ ] Create sponsor package document
+- [ ] Create and document way to recieve money from sponsors
+	-[ ] Do this prior to reaching out to potential sponsors
+- [ ] Create list of potential sponsors
+- [ ] Reach out to potential sponsors
+- [ ] Answer any questions sponsors have
+- [ ] transfer money from Sponsors in a timely manner
 
 ## Location
 
 It may seem a little counter-intuitive to be listing this to do item so low, but in reality, most of what has been listed can all be done in parallel with this. Key thing with finding a location is to make sure it has the space needed based on your schedule and estimated total attendees. Next, figuring out what will need to be done yourself vs what the venue takes care of is important. For example, catering, room set up, parking, signage. These will lead you down additional checklist items if the location does not offer these services. Also know that quotes are negotiable.
 
-- [] Scope out potential locations
-- [] Get quotes from locations
-- [] Negotiate with locations
-- [] Select location
-- [] Determine additional tasks
+- [ ] Scope out potential locations
+- [ ] Get quotes from locations
+- [ ] Negotiate with locations
+- [ ] Select location
+- [ ] Determine additional tasks
 
 ## Generate Call For Papers
 
@@ -84,23 +84,23 @@ The Call For Papers details what is being looked for in talks submitted to the c
 
 The key is to select a timeline with the CFP that is long enough for people to figure out how to respond to the prompt, but short enough to cause urgency. A month seems like a good time length. Have a plan in place for social media etc. 
 
-- [] Determine accepted talk topics
-- [] Determine accepted talk types (ie. 30 minute talks, lightning, trainings, 20 mintues,...)
-- [] Determine benefits for speakers - special accomodations, free admission, assistance in reviewing talks, ...
-- [] Determine timeline for when CFP opens
-- [] Determine timeline for when CFP closes
-- [] Determine timeline for Abstract review
-- [] Determine committee assignment on reviewing abstracts
-- [] Determine speaker response time (<1 week is ideal)
+- [ ] Determine accepted talk topics
+- [ ] Determine accepted talk types (ie. 30 minute talks, lightning, trainings, 20 mintues,...)
+- [ ] Determine benefits for speakers - special accomodations, free admission, assistance in reviewing talks, ...
+- [ ] Determine timeline for when CFP opens
+- [ ] Determine timeline for when CFP closes
+- [ ] Determine timeline for Abstract review
+- [ ] Determine committee assignment on reviewing abstracts
+- [ ] Determine speaker response time (<1 week is ideal)
 
 ## Release CFP, Keynote(s)/Endnote, and Earlybird Ticket Sales
 
 This piece is the first public contact for the conference. We can work with you to manage the twitter, LinkedIn and Mailchimp accounts. Opening the Earlybird ticket sales also means you need your event software selected. We used eventbank this past year, but before eventbright was used. I would suggest looking at eventbright again. We closed the earlybird tickets when we closed the CFP. In retrospect, that might have not been the best idea. However, the change in cost was only an increase from $40 to $50, so it likely wasn't a huge deal.
 
-- [] Select Event softare
-- [] Determine end of Earlybird ticket sales
-- [] Determine CFP social media plan
-- [] Determine Earlybird social media plan
+- [ ] Select Event softare
+- [ ] Determine end of Earlybird ticket sales
+- [ ] Determine CFP social media plan
+- [ ] Determine Earlybird social media plan
 
 
 ## Review Abstract submissions and send acceptances
@@ -110,17 +110,17 @@ To review the abstracts, have several committee members read through each abstra
 
 Let the speakers know if they have been accepted, and only give a week to respond. I gave two weeks and still had to follow up.
 
-- [] Review submissions
-- [] Group talks
-- [] Determine Accepted talks and reach out
-- [] track who has responded
+- [ ] Review submissions
+- [ ] Group talks
+- [ ] Determine Accepted talks and reach out
+- [ ] track who has responded
 
 ## Release schedule & Announce Speakers
 
 Now that all the speakers have been figured out, the full schedule can be released. Update the website with the relevant information on speakers. Start promoting that the schedule is available
 
-- [] update website
-- [] announce
+- [ ] update website
+- [ ] announce
 
 
 ## Social Media "blast"
@@ -129,7 +129,7 @@ Now most things have been covered, it is time to promote the conference and keep
 
 Create a plan for twitter, linkedin, and mail chimp with their content. Twitter content can be updated more regularly than linkedin. Mailchimp should probably be only used a few times to keep from annoying people. The plan should contain both posts and the date for which they are planned. 
 
-- [] Create Social Media plan
+- [ ] Create Social Media plan
 
 
 
