@@ -1,15 +1,17 @@
----
-Event Name:
+
+# Budget Planner
+
+Event Name
 Location: 
 Event Date: 				
 Total Event Budget:				
 F&B Minimum: 			
 Headcount:		
----
+
 				
 ## Food and Beverage 	
 
-_Budgeted Amount:
+_Budgeted Amount_:
 
 #### Notes
 * When deposits are due
@@ -17,8 +19,8 @@ _Budgeted Amount:
 
 				
 #### Price Breakdown
-|Date|Description|Price|Count|Cost|
------------------------------------
+|Date|Description |Price|Count|Cost|
+|----|------------|-----|-----|----|
 |6/7 AM | Coffee & Tea Service |||| 
 |6/7 AM | Assorted Pastries & Muffins, per dozen price |||| 
 |6/7 PM |Coffee & Tea Service, per gallon |||| 
@@ -34,7 +36,7 @@ _Budgeted Amount:
 
 #### Totals
 | Description   | Value |
-----------------------
+|---------------|-------|
 |Subtotal       |       |
 |Service charge |       |
 |Tax            |       |
@@ -44,7 +46,7 @@ _Budgeted Amount:
 			
 ## A/V Rental	
 
-_Budgeted Amount:
+_Budgeted Amount_:
 
 #### Notes
 * When deposits are due
@@ -54,7 +56,7 @@ _Budgeted Amount:
 				
 #### Price Breakdown
 |Date|Description |Price|Count|Cost|
------------------------------------------------------
+|----|------------|-----|-----|----|
 |6/7 | Projector & Screen Packages ||||
 |6/8 | Projector & Screen Packages ||||
 |6/8 | Connection package for the 2 projectors ||||
@@ -64,7 +66,7 @@ _Budgeted Amount:
 
 #### Totals
 | Description   | Value |
-----------------------
+|---------------|-------|
 |Subtotal       |       |
 |Service charge |       |
 |Tax            |       |
@@ -74,7 +76,7 @@ _Budgeted Amount:
 			
 ## Miscellaneous 	
 
-_Budgeted Amount:
+_Budgeted Amount_:
 
 #### Notes
 * When printed collateral is needed
@@ -87,12 +89,12 @@ _Budgeted Amount:
 				
 #### Price Breakdown
 |Description |Price|Count|Cost|
------------------------------------------------------
-||||||
+|------------|-----|-----|----|
+|            |     |     |    |
 
 
 #### Totals
 | Description   | Value |
-----------------------
+|---------------|-------|
 |Total          |       |
 |Difference     |(Budgeted - Total)|		
